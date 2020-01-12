@@ -1,5 +1,0 @@
-a = float(input("Your first value >"))
-d = float(input("Your common difference >"))
-n = float(input("No. of terms >"))
-s = n/2*(2*a+(n-1)*d)
-print(s)
