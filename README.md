@@ -1,2 +1,2 @@
 # python
-python codes
+everything about python
