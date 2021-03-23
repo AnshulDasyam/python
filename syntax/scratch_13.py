@@ -5,7 +5,7 @@ a = int(input('no.1> '))
 b = int(input('no.2> '))
 c = int(input('no.3> '))
 d = int(input('no.4> '))
-e = int(input('no.5 >'))
+e = int(input('no.5> '))
 f = int(input('no.6> '))
 for y in [a,b,c,d,e,f] :
     if x is None :

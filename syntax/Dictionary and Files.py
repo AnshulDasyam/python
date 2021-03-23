@@ -1,4 +1,4 @@
-handle = open("mbox short.txt")
+handle = open("D:\Github\python\syntax\mbox short.txt")
 count = dict()
 for line in handle :
     words = line.split()
