@@ -6,7 +6,7 @@ try :
     score = float(marks)
 except :
     score = 100
-if score >10 :
+if score >1 :
     print("invalid score")
 elif score < 0 :
     print("invalid score")
