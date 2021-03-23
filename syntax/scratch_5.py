@@ -10,7 +10,7 @@ if hours > 40:
     print("ur pay is = ",pay)
     print("gg")
 elif hours <= 0 :
-    print("please enter a numeric code")
+    print("please enter a positive numeric code")
 else :
     pay = rate*hours
     print("ur pay is =",pay)
